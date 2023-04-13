@@ -1,0 +1,19 @@
+/* Importing all CSS files */
+@import url('./Form.css');
+@import url('./Transcript.css');
+
+/* Defaults */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Primary Variables */
+:root {
+  --primary: 'green';
+}
+
+body {
+  padding: 20px;
+}
